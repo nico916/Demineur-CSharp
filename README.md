@@ -8,6 +8,7 @@ Projet de démineur réalisé en C# avec Windows Forms, dans le cadre d’un exe
 - Gestion des clics gauche et droit (révéler / marquer une case)
 - Détection de fin de partie (victoire / défaite)
 - Redémarrage d’une partie
+- Plusieurs niveaux de difficultés
 
 ## Technologies utilisées
 - C#
