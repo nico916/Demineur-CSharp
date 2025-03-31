@@ -1,0 +1,27 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Dd]ebug/
+[Rr]elease/
+
+# NuGet
+*.nupkg
+packages/
+*.snupkg
+
+# Others
+*.log
+*.tmp
+*.bak
+*.db
+*.sqlite
+
+# OS
+Thumbs.db
+.DS_Store
