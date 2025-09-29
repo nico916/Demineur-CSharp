@@ -43,7 +43,7 @@ To run this project, you will need Visual Studio with the .NET desktop developme
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/nico916/Demineur-CSharp.git
+    git clone https://github.com/nico916/Minesweeper-CSharp.git
     ```
 2.  **Open the solution:**
     Navigate to the project folder and open the `.sln` file with Visual Studio.
